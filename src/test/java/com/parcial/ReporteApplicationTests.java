@@ -1,4 +1,4 @@
-package com.parcial.reporte;
+package com.parcial;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
